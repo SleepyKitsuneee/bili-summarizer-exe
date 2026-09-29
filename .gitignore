@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+build_exe_tmp4/
+build/
+dist/
+release/
+tmp/
+summaries/
+history.json
+settings.json
+ffmpeg.exe
+*.spec
